@@ -1,7 +1,6 @@
 
 #include <chrono>
 #include <ctime>
-#include <iostream>
 
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
